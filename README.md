@@ -1,4 +1,3 @@
-# csharp-console-chat-application
 # C# Client-Server Chat System
 
 ## Overview
