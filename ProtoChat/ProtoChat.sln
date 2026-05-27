@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProtoChat", "ProtoChat\ProtoChat.csproj", "{8F11441B-AD29-4631-BF51-9F2F50855F8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F11441B-AD29-4631-BF51-9F2F50855F8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F11441B-AD29-4631-BF51-9F2F50855F8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F11441B-AD29-4631-BF51-9F2F50855F8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F11441B-AD29-4631-BF51-9F2F50855F8D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {437B1FD3-C836-441A-9C4B-D22E323348BC}
+	EndGlobalSection
+EndGlobal

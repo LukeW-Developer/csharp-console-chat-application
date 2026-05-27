@@ -1,0 +1,15 @@
+C:\Users\Luke\source\repos\ProtoChat\ProtoChat\bin\Release\net7.0\ProtoChat.exe
+C:\Users\Luke\source\repos\ProtoChat\ProtoChat\bin\Release\net7.0\ProtoChat.deps.json
+C:\Users\Luke\source\repos\ProtoChat\ProtoChat\bin\Release\net7.0\ProtoChat.runtimeconfig.json
+C:\Users\Luke\source\repos\ProtoChat\ProtoChat\bin\Release\net7.0\ProtoChat.dll
+C:\Users\Luke\source\repos\ProtoChat\ProtoChat\bin\Release\net7.0\ProtoChat.pdb
+C:\Users\Luke\source\repos\ProtoChat\ProtoChat\obj\Release\net7.0\ProtoChat.csproj.AssemblyReference.cache
+C:\Users\Luke\source\repos\ProtoChat\ProtoChat\obj\Release\net7.0\ProtoChat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luke\source\repos\ProtoChat\ProtoChat\obj\Release\net7.0\ProtoChat.AssemblyInfoInputs.cache
+C:\Users\Luke\source\repos\ProtoChat\ProtoChat\obj\Release\net7.0\ProtoChat.AssemblyInfo.cs
+C:\Users\Luke\source\repos\ProtoChat\ProtoChat\obj\Release\net7.0\ProtoChat.csproj.CoreCompileInputs.cache
+C:\Users\Luke\source\repos\ProtoChat\ProtoChat\obj\Release\net7.0\ProtoChat.dll
+C:\Users\Luke\source\repos\ProtoChat\ProtoChat\obj\Release\net7.0\refint\ProtoChat.dll
+C:\Users\Luke\source\repos\ProtoChat\ProtoChat\obj\Release\net7.0\ProtoChat.pdb
+C:\Users\Luke\source\repos\ProtoChat\ProtoChat\obj\Release\net7.0\ProtoChat.genruntimeconfig.cache
+C:\Users\Luke\source\repos\ProtoChat\ProtoChat\obj\Release\net7.0\ref\ProtoChat.dll
