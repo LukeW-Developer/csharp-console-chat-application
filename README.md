@@ -56,12 +56,6 @@ Some bugs or limitations may still exist.
 
 ---
 
-## Author
-
-Developed by LukeW-Developer
-
----
-
 Copyright © 2026 LukeW-Developer
 
 This repository is provided for viewing and portfolio purposes only.
